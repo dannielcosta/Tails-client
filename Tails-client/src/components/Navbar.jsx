@@ -2,12 +2,13 @@ import { NavLink } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav className="fixed bottom-0 left-0 right-0 flex justify-around bg-white">
+    <nav className="bg-white p-4 flex justify-around items-center border-t border-gray-200 w-full">
       {/* Search button */}
       <NavLink to="/">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-10 w-10 text-blue-500"
+          viewBox="0 0 20 20"
           fill="currentColor"
         >
           <circle cx="10" cy="10" r="9" />
