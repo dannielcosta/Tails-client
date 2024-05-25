@@ -1,9 +1,11 @@
-[
+{
+  "places":[
   {
     "logo": "https://res.cloudinary.com/tf-lab/image/upload/w_600,h_310,c_fill,g_auto:subject,q_auto,f_auto/restaurant/b675cfd9-5800-4cee-a0d7-4c07662d1df0/5c9a7e7f-c728-42eb-9a16-420d531b2212.jpg",
     "name": "Blue Bistrot",
     "type": ["Restaurant", "Bar"],
     "address": "Rua do Crucifixo 84 1100-183 Lisbon",
+    "location": "Rato, Lisboa",
     "rating": 4.5,
     "priceLevel": "€€-€€€",
     "phone": "+351 213460107",
@@ -15,6 +17,7 @@
     "name": "É um Restaurante",
     "type": "Restaurant",
     "address": "Rua das Salgadeiras 28 1200-445 Lisbon",
+    "location": "Lisboa, Portugal",
     "rating": 4.5,
     "priceLevel": "€€-€€€",
     "phone": "+351 213477059",
@@ -26,6 +29,7 @@
     "name": "Machimbombo",
     "type": ["Restaurant", "Bar"],
     "address": "Largo Rafael Bordalo Pinheiro 30 1200-369 Lisbon",
+    "location": "Calçada do Combro, Lisboa",
     "rating": 4.5,
     "priceLevel": "€€-€€€",
     "phone": "+351 213421157",
@@ -37,6 +41,7 @@
     "name": "Madam Bo Dumpling",
     "type": "Restaurant",
     "address": "Rua Cintura do Porto de Lisboa Armazém B 1950-326 Lisbon",
+    "location": "Rato, Lisboa",
     "rating": 4.5,
     "priceLevel": "€€-€€€",
     "phone": "+351 218862155",
@@ -48,6 +53,7 @@
     "name": "Casa Graviola",
     "type": "Restaurant",
     "address": "Rua da Boavista 86 1200-069 Lisbon",
+    "location": "Bica, Lisboa",
     "rating": 4.5,
     "priceLevel": "€€-€€€",
     "phone": "+351 213433313",
@@ -59,6 +65,7 @@
     "name": "Unique Sushi Lab",
     "type": "Restaurant",
     "address": "Rua Castilho 5D 1250-066 Lisbon",
+    "location": "Lisboa, Portugal",
     "rating": 4.5,
     "priceLevel": "€€-€€€",
     "phone": "+351 213513575",
@@ -440,3 +447,4 @@
     "comments": "Delicious vegan burgers. Loved it!"
   }
 ]
+}
